@@ -15,3 +15,4 @@ sum = float(n1) + float(n2) + float(n3)
 # Display the result
 print('The sum of {0}, {1}  and {2} is {3}'.format(n1, n2, n3, sum))
 
+# this is a useless comment
