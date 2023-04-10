@@ -7,46 +7,11 @@
 # Enter two numbers 
 n1 = input('Enter number 1: ')
 n2 = input('Enter number 2: ')
+n3 = input('Enter number 3: ')
 
 # Add them together
-sum = float(n1) + float(n2)
+sum = float(n1) + float(n2) + float(n3)
 
 # Display the result
-print('The sum of {0} and {1} is {2}'.format(n1, n2, sum))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
+print('The sum of {0}, {1}  and {2} is {3}'.format(n1, n2, n3, sum))
 
